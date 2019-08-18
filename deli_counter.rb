@@ -4,5 +4,5 @@ def "Deli Counter"
   take_a_number.each do |katz_deli|
     puts "Welcome, #{katz_deli}. You are number #{number} in line."
 
-    
+
   
